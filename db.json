@@ -1,9 +1,20 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+   {
+    "id": 1,
+    "body": "Primeiro comentario...",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "Segundo comentario....",
+    "postId": 3
+  },
+  {
+    "id": 3,
+    "body": "Terceiro comentario....",
+    "postId": 123
+  }
   ],
   "profile": {
     "name": "typicode"
