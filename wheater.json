@@ -1,5 +1,4 @@
-{
-  "registrosClimaticos": [
+[
     {
       "data": "2023-11-01",
       "temperaturaMaxima": 28,
@@ -91,4 +90,3 @@
       "umidade": 50
     }
   ]
-}
