@@ -1,0 +1,94 @@
+{
+  "registrosClimaticos": [
+    {
+      "data": "2023-11-01",
+      "temperaturaMaxima": 28,
+      "temperaturaMinima": 18,
+      "umidade": 60
+    },
+    {
+      "data": "2023-11-02",
+      "temperaturaMaxima": 27,
+      "temperaturaMinima": 17,
+      "umidade": 65
+    },
+    {
+      "data": "2023-11-03",
+      "temperaturaMaxima": 30,
+      "temperaturaMinima": 20,
+      "umidade": 55
+    },
+    {
+      "data": "2023-11-04",
+      "temperaturaMaxima": 26,
+      "temperaturaMinima": 16,
+      "umidade": 70
+    },
+    {
+      "data": "2023-11-05",
+      "temperaturaMaxima": 29,
+      "temperaturaMinima": 19,
+      "umidade": 60
+    },
+    {
+      "data": "2023-11-06",
+      "temperaturaMaxima": 31,
+      "temperaturaMinima": 21,
+      "umidade": 50
+    },
+    {
+      "data": "2023-11-07",
+      "temperaturaMaxima": 25,
+      "temperaturaMinima": 15,
+      "umidade": 75
+    },
+    {
+      "data": "2023-11-08",
+      "temperaturaMaxima": 32,
+      "temperaturaMinima": 22,
+      "umidade": 45
+    },
+    {
+      "data": "2023-11-09",
+      "temperaturaMaxima": 24,
+      "temperaturaMinima": 14,
+      "umidade": 80
+    },
+    {
+      "data": "2023-11-10",
+      "temperaturaMaxima": 28,
+      "temperaturaMinima": 18,
+      "umidade": 60
+    },
+    {
+      "data": "2023-11-11",
+      "temperaturaMaxima": 27,
+      "temperaturaMinima": 17,
+      "umidade": 65
+    },
+    {
+      "data": "2023-11-12",
+      "temperaturaMaxima": 30,
+      "temperaturaMinima": 20,
+      "umidade": 55
+    },
+    {
+      "data": "2023-11-13",
+      "temperaturaMaxima": 26,
+      "temperaturaMinima": 16,
+      "umidade": 70
+    },
+    {
+      "data": "2023-11-14",
+      "temperaturaMaxima": 29,
+      "temperaturaMinima": 19,
+      "umidade": 60
+    },
+    {
+      "data": "2023-11-15",
+      "temperaturaMaxima": 31,
+      "temperaturaMinima": 21,
+      "umidade": 50
+    }
+  ]
+}
